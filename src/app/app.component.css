@@ -1,6 +1,13 @@
-.wrapper {
+:host {
   margin: 100px auto;
   width: 70%;
   display: flex;
   justify-content: space-evenly;
 }
+
+/* .wrapper {
+  margin: 100px auto;
+  width: 70%;
+  display: flex;
+  justify-content: space-evenly;
+} */
